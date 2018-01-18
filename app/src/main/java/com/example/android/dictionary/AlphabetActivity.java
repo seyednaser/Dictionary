@@ -47,13 +47,6 @@ public class AlphabetActivity extends Activity {
         words.add(new Word("Y", "وای", R.raw.number_ten));
         words.add(new Word("Z", "زد", R.raw.number_ten));
 
-/*
-        WordAdapter itemAdapter = new WordAdapter(
-                this,
-                words,
-                R.color.category_numbers
-        );
-*/
         WordAdapter itemAdapter = new WordAdapter(
                 this,
                 words,
