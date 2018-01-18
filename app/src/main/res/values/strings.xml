@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="numbers">Numbers</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+
+</resources>
